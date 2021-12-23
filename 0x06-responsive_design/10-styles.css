@@ -431,7 +431,7 @@
     padding: var(--section-footer-padding);
     text-align: var(--section-footer-align);
   }
-  /*https://stackoverflow.com/questions/41422225/target-first-li-having-specific-class-inside-ul-with-css-only*/
+
   @media screen and (max-width: 767px) {
     :root {
       --footer-padding: 5rem 2rem 1rem;
